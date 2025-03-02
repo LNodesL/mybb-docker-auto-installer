@@ -12,6 +12,11 @@ cd dist
 python install.py
 ```
 
+![Run the install Python script](auto-mybb-docker-setup-install-and-launch.png)
+
+![Proceed with MyBB install via the UI](mybb-install-5-minutes-or-less.png)
+
+
 Usage example:
 ```
 root@server:/path/to/folder/mybbdemo1# python3 install.py
