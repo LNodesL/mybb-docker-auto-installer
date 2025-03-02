@@ -13,24 +13,7 @@ python install.py
 ```
 
 
-Run the script:
-
-![Run the install Python script](auto-mybb-docker-setup-install-and-launch.png)
-
-
-
-Copy the auto generated database credentials:
-
-![Copy the auto generated database credentials](auto-database-generation.png)
-
-
-
-Proceed with MyBB install via the UI:
-
-![Proceed with MyBB install via the UI](mybb-install-5-minutes-or-less.png)
-
-
-Usage example:
+Complete Usage example:
 ```
 root@server:/path/to/folder/mybbdemo1# python3 install.py
 Docker not found locally. Downloading Docker...
@@ -80,6 +63,11 @@ Password: mybb_password123
 
 Root Password: rootpassword123
 ```
+
+Proceed with MyBB install via the UI:
+
+![Proceed with MyBB install via the UI](mybb-install-5-minutes-or-less.png)
+
 
 ## Dev Notes
 
