@@ -12,15 +12,21 @@ cd dist
 python install.py
 ```
 
+
 Run the script:
+
 ![Run the install Python script](auto-mybb-docker-setup-install-and-launch.png)
 
 
+
 Copy the auto generated database credentials:
+
 ![Copy the auto generated database credentials](auto-database-generation.png)
 
 
+
 Proceed with MyBB install via the UI:
+
 ![Proceed with MyBB install via the UI](mybb-install-5-minutes-or-less.png)
 
 
