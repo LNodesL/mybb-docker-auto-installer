@@ -51,8 +51,8 @@ Trying mirror: mirror.gcr.io
 
 MyBB is now running!
 Access it via:
-- http://[ip]:47881/
-- http://localhost:47881/
+- http://[ip]:56755/
+- http://localhost:56755/
 
 
 MySQL Database Credentials:
